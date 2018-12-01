@@ -1,0 +1,4 @@
+"1"	"com.example.entity.Student"	"18"	"计算机"	"大一"	"小王"	"中科大"	"男"
+"10"	"com.example.entity.Student"	"19"	"冶金"	"大二"	"小李"	"安徽工业大学"	"男"
+"8"	"com.example.entity.Student"	"22"	"信息技术"	"大四"	"小三"	"河海大学"	"女"
+"4"	"com.example.entity.Student"	"25"	"冶金"	"大三"	"小张"	"扬州大学"	"男"
